@@ -1,4 +1,4 @@
-# ASCII Art Restorer: Human vs AI — Comparison Report
+# ASCII Art Restorer: Human vs AI — Comparison Report by AI
 
 ## 1. Visual Results
 
